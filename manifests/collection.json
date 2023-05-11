@@ -5,9 +5,5 @@
   },
   "type" : "Collection",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "items" : [ {
-    "@type" : "sc:Manifest",
-    "@id" : "https://giorgiainv.github.io/neveralone879974/manifests/GiorgiaSegato879974.json",
-    "label" : "Never Alone: Video Games and Other Interactive Design"
-  } ]
+  "items" : [ ]
 }
